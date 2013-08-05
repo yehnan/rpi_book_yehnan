@@ -1,4 +1,8 @@
-rpi_book_yehnan
-===============
+﻿！尚在建構中！
 
-Source code of the Raspberry Pi tutorial book by yehnan
+含有「Raspberry Pi書名未定」一書裡的原始碼檔案。
+作者：
+出版社：博碩文化
+
+目錄ch_python裡，含有第6章「Python程式語言」裡的原始碼檔案。
+目錄ch_gpio裡，含有第7章「GPIO針腳」裡的原始碼檔案。
