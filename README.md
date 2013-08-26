@@ -1,5 +1,5 @@
 ﻿含有「Raspberry Pi從入門到應用」一書裡的原始碼檔案。<br />
-作者：葉難（http://yehnan.blogspot.com）<br />
+作者：葉難（ http://yehnan.blogspot.com ）<br />
 出版社：博碩文化<br />
 <br />
 目錄ch_python裡，含有第6章「Python程式語言」裡的原始碼檔案。<br />
