@@ -1,8 +1,8 @@
-﻿！尚在建構中！
+﻿含有「Raspberry Pi從入門到應用」一書裡的原始碼檔案。<br />
+作者：葉難（http://yehnan.blogspot.com）<br />
+出版社：博碩文化<br />
+<br />
+目錄ch_python裡，含有第6章「Python程式語言」裡的原始碼檔案。<br />
+目錄ch_gpio裡，含有第7章「GPIO針腳」裡的原始碼檔案。<br />
+目錄ch_scratch裡，含有第9章「Scratch」裡的原始碼檔案。<br />
 
-含有「Raspberry Pi書名未定」一書裡的原始碼檔案。
-作者：
-出版社：博碩文化
-
-目錄ch_python裡，含有第6章「Python程式語言」裡的原始碼檔案。
-目錄ch_gpio裡，含有第7章「GPIO針腳」裡的原始碼檔案。
